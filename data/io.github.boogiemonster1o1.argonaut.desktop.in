@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=argonaut
+Exec=argonaut
+Icon=io.github.boogiemonster1o1.argonaut
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

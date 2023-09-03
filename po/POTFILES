@@ -1,0 +1,6 @@
+data/io.github.boogiemonster1o1.argonaut.desktop.in
+data/io.github.boogiemonster1o1.argonaut.appdata.xml.in
+data/io.github.boogiemonster1o1.argonaut.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
